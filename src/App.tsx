@@ -17,7 +17,7 @@ function App() {
 				<div>{count}</div>
 				<button
 					className="border-2 rounded border-red-300"
-					onClick={() => dispatch(incrementByAmount(5))}
+					onClick={() => dispatch(incrementByAmount(6))}
 				>
 					IncrementByValue
 				</button>
