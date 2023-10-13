@@ -6,7 +6,7 @@ interface CounterState{
 }
 
 const initialState: CounterState = {
-  count: 82,
+  count: 2,
 }
 
 const counterSlice = createSlice({
