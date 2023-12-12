@@ -14,7 +14,7 @@ const counterSlice = createSlice({
 	initialState,
 	reducers: {
 		increment: (state) => {
-			state.count += 2;
+			state.count += 1;
 		},
 		decrement: (state) => {
 			state.count -= 3;
